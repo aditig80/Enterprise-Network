@@ -6,22 +6,6 @@
 
 This project implements a small enterprise network with two departments—**Accounts** and **Delivery**—each containing 2 PCs and 1 printer, connected through switches and a router. The given network `192.168.40.0` is subnetted into two /25 subnets for departmental separation.
 
-## Network Topology
-
-            +----------------------+
-            |        Router        |
-            |  G0/0/1   G0/0/2     |
-            +----------+-----------+
-                       |
-       ---------------------------------------
-       |                                     |
-+------------------+                +------------------+
-|  Accounts Dept   |                |  Delivery Dept   |
-+------------------+                +------------------+
-| PC0  PC1 Printer |                | PC2 PC3 Printer  |
-|   Switch_1       |                |   Switch_2       |
-+------------------+                +------------------+
-
 
 ## Screenshots
 
