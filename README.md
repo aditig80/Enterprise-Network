@@ -10,10 +10,10 @@ This project implements a small enterprise network with two departments—**Acco
 ## Screenshots
 
 ### Topology Overview
-![Network Topology](./screenshots/1.png)
+![Network Topology](./Screenshots/1.png)
 
 ### IP Configuration
-![IP Configuration](./screenshots/2.png)
+![IP Configuration](./Screenshots/2.png)
 
 ## Project Structure
 .
