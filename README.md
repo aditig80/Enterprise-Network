@@ -18,7 +18,7 @@ This project implements a small enterprise network with two departments—**Acco
 ## Project Structure
 .
 ├── README.md
-├── enterprise-network.pkt        # Packet Tracer file
+├── enterprise-network.pkt        
 └── screenshots/
     ├── topology.png
     └── ip-config.png
