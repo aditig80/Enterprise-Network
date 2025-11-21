@@ -46,3 +46,5 @@ This project implements a small enterprise network with two departments—**Acco
 ## Testing
 Connectivity between both departments verified via `ping`.
 
+1-2-3
+
